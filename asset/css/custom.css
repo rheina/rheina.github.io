@@ -1,0 +1,20 @@
+body {
+	background-color: #93DBD0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	
+}
+video{
+	width: 51rem;
+	height: 30rem;
+}
+
+#playlist li{
+    cursor:pointer;
+}
+
+#gifcos{
+	height: 25rem;
+}
